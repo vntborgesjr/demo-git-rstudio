@@ -1,0 +1,21 @@
+---
+title: "Git and GitHub for Collaboration"
+author: "Vitor Borges-Júnior"
+date: "10/06/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Step 1 - Create a new repository
+
+
+
+
+# Step 2 - Create a new Version Control RStudio Project
+
+
+
+# Step 3 - Inviting a collaborator
