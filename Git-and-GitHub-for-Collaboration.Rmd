@@ -20,8 +20,35 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Step 4 - Inviting a collaborator
 
+- Invite a collaborator from the GitHub page
+
 - Ask for the collaborator accept the invitation
 
 - Ask for the colaborator to make some modification in the file
 
 # Step 5 - First pull rerquest
+
+- Ask the collaborator to make changes in the file
+
+- Ask the collaborator to commit changes
+
+- Ask the collaborator to make a push request
+
+- Do a pull request yourself
+
+# Step 6 - Solving merge conflict
+
+# Step 7 - Barnching
+
+- Create a new branch
+
+- Ask your colaborator to make changes and push them
+
+- Do a pull request and merge the branch with changes with the main branch
+
+```{r}
+library(usethis)
+create_from_github("llendway/pr_practice", fork = TRUE)
+create_github_token("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")
+```
+
