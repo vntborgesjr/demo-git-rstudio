@@ -16,6 +16,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Step 2 - Create a new Version Control RStudio Project
 
+# Step 3 - First commit and push request
 
+# Step 4 - Inviting a collaborator
 
-# Step 3 - Inviting a collaborator
+- Ask for the collaborator accept the invitation
+
+- Ask for the colaborator to make some modification in the file
+
+# Step 5 - First pull rerquest
